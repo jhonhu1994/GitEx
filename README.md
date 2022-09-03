@@ -1,1 +1,1 @@
-# GitEx
+# Hello, GitHub!
